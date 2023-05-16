@@ -1,0 +1,13 @@
+.Maincomp{
+    width: 80%;
+    height: 500px;
+    background-color: rgb(240, 205, 159);
+   
+}
+.buttons{
+    height: 10%;
+    width: 100%;
+    display: flex;
+    background-color:rgb(126, 119, 142);
+    justify-content: space-between;
+}

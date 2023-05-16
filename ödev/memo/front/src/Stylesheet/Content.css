@@ -1,0 +1,15 @@
+.content{
+    height: 90%;
+    background-color: rgb(194, 158, 139);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+.cevap{
+    display:flex;
+    width: 80%;
+    justify-content: space-around;
+
+}

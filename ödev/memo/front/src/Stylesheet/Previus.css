@@ -1,0 +1,9 @@
+.previus{
+    display: flex;
+    align-items: center;
+ justify-content: center;
+    width: 90px;
+    height: 100%;
+    background-color: rgba(186, 182, 182, 0.946);
+    cursor: pointer;
+}

@@ -1,0 +1,9 @@
+.next{
+  display: flex;
+  background-color: rgba(186, 182, 182, 0.946);
+  width: 90px;
+ height: 100%;
+ align-items: center;
+ justify-content: center;
+ cursor: pointer;
+}
